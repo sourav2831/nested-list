@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nested-list/static/css/main.7d76e701.chunk.css",
+    "main.js": "/nested-list/static/js/main.03dc0699.chunk.js",
+    "main.js.map": "/nested-list/static/js/main.03dc0699.chunk.js.map",
+    "runtime-main.js": "/nested-list/static/js/runtime-main.4ea8f8e9.js",
+    "runtime-main.js.map": "/nested-list/static/js/runtime-main.4ea8f8e9.js.map",
+    "static/js/2.21e86c3d.chunk.js": "/nested-list/static/js/2.21e86c3d.chunk.js",
+    "static/js/2.21e86c3d.chunk.js.map": "/nested-list/static/js/2.21e86c3d.chunk.js.map",
+    "index.html": "/nested-list/index.html",
+    "precache-manifest.76bb4d1581bd1e204fdfd464996e82bb.js": "/nested-list/precache-manifest.76bb4d1581bd1e204fdfd464996e82bb.js",
+    "service-worker.js": "/nested-list/service-worker.js",
+    "static/css/main.7d76e701.chunk.css.map": "/nested-list/static/css/main.7d76e701.chunk.css.map",
+    "static/js/2.21e86c3d.chunk.js.LICENSE.txt": "/nested-list/static/js/2.21e86c3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ea8f8e9.js",
+    "static/js/2.21e86c3d.chunk.js",
+    "static/css/main.7d76e701.chunk.css",
+    "static/js/main.03dc0699.chunk.js"
+  ]
+}
